@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 1280" fill="none">
+  <rect width="720" height="1280" fill="#D4B8A0"/>
+  <circle cx="360" cy="520" r="160" fill="#C45C4A" opacity=".35"/>
+  <path d="M200 900c40-120 280-120 320 0" stroke="#2A211C" stroke-width="8" opacity=".2"/>
+  <text x="360" y="640" text-anchor="middle" fill="#2A211C" font-family="system-ui,sans-serif" font-size="36" opacity=".5">2845> 1</text>
+  <text x="360" y="700" text-anchor="middle" fill="#2A211C" font-family="system-ui,sans-serif" font-size="22" opacity=".4">?>;>68 training-1.mp4</text>
+</svg>

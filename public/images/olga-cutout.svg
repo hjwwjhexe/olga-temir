@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 820" fill="none">
+  <defs>
+    <linearGradient id="skin" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#E8B89A"/>
+      <stop offset="1" stop-color="#D49A78"/>
+    </linearGradient>
+    <linearGradient id="dress" x1="0.2" y1="0" x2="0.8" y2="1">
+      <stop stop-color="#C45C4A"/>
+      <stop offset="1" stop-color="#9E3D32"/>
+    </linearGradient>
+  </defs>
+  <!-- stylized standing figure cutout placeholder -->
+  <ellipse cx="240" cy="118" rx="62" ry="72" fill="url(#skin)"/>
+  <path d="M178 175c12-28 112-28 124 0 8 18 14 42 10 68H168c-4-26 2-50 10-68Z" fill="url(#skin)"/>
+  <path d="M155 250c20-8 50-14 85-14s65 6 85 14c18 8 38 48 42 110 4 70-6 180-18 260-6 40-22 72-42 72H173c-20 0-36-32-42-72-12-80-22-190-18-260 4-62 24-102 42-110Z" fill="url(#dress)"/>
+  <path d="M168 248c-18 40-36 78-40 128" stroke="#9E3D32" stroke-width="28" stroke-linecap="round"/>
+  <path d="M312 248c18 36 34 70 38 118" stroke="#9E3D32" stroke-width="28" stroke-linecap="round"/>
+  <path d="M190 680c-8 42-10 78-6 110" stroke="#2A211C" stroke-width="26" stroke-linecap="round" opacity=".85"/>
+  <path d="M290 680c8 42 10 78 6 110" stroke="#2A211C" stroke-width="26" stroke-linecap="round" opacity=".85"/>
+  <circle cx="218" cy="108" r="4" fill="#2A211C" opacity=".5"/>
+  <circle cx="262" cy="108" r="4" fill="#2A211C" opacity=".5"/>
+  <path d="M226 138c8 10 20 10 28 0" stroke="#2A211C" stroke-width="3" stroke-linecap="round" opacity=".35"/>
+  <path d="M175 78c20-36 70-48 110-28" stroke="#2A211C" stroke-width="18" stroke-linecap="round" opacity=".55"/>
+</svg>
